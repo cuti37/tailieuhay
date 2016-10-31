@@ -1,0 +1,27 @@
+Khi muốn gọi hành động của các phần tử chung class sử dụng js. Nên sử dụng closest để gọi ngược lại.
+vd: 
+<div class="cha">
+	<ul>
+		<li><a class="con1">
+		Hiển thị 1
+			</a>
+		</li>
+	</ul>
+	<input type="text" class="con2"/>
+</div>
+<div class="cha">
+	<ul>
+		<li><a class="con1">
+		Hiển thị 2
+			</a>
+		</li>
+	</ul>
+	<input type="text" class="con2"/>
+</div>
+
+cách sử dụng:
+$(document).ready(function(){
+	$(".cha a").click(function(){
+		$(this).closest(".cha").find(".con2").show();
+	});
+});
