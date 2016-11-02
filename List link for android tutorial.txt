@@ -4,3 +4,5 @@
 => https://android-arsenal.com/free
 3 - Danh sách tài liệu hay
 => https://github.com/detailyang/awesome-cheatsheet
+4 - Hướng dẫn học Design Pattern
+=> http://laptrinh.vn/d/4346-design-pattern-la-gi-huong-dan-design-pattern.html
