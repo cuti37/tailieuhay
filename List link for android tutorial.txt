@@ -7,3 +7,5 @@
 4 - Hướng dẫn học Design Pattern
 => http://laptrinh.vn/d/4346-design-pattern-la-gi-huong-dan-design-pattern.html
 => của studyandshare: https://studyandshare.wordpress.com/category/java-programming-language/java-design-pattern/
+5 - Hướng dẫn học Android
+=> https://www.udemy.com/learn-by-doing-android-for-beginners/?dtcode=iFEQbRl3TC9E
