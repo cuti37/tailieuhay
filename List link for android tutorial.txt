@@ -13,3 +13,12 @@
 => http://www.vogella.com/tutorials/android.html
 6 - Hướng dẫn sử dụng thư viện android để thiết kế
 => http://blog.rhesoft.com/categories/#Android
+=> https://canvature.appspot.com/
+7 - Tổng hợp file psd design giao diện android
+=> http://freebiesbug.com/psd-freebies/app-design/
+
+==================================================tutorial design android========================================
+
+=============Tổng hợp link blog và forum : https://github.com/vbauer/android-blogs
+1 - Hướng dẫn drag and swipe recycleViewer
+=> https://medium.com/@ipaulpro/drag-and-swipe-with-recyclerview-b9456d2b1aaf#.cinhr7rb8
