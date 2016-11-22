@@ -14,6 +14,7 @@
 6 - Hướng dẫn sử dụng thư viện android để thiết kế
 => http://blog.rhesoft.com/categories/#Android
 => https://canvature.appspot.com/
+=> http://www.viralandroid.com/2015/11/android-user-interface-ui-design-tutorial.html
 7 - Tổng hợp file psd design giao diện android
 => http://freebiesbug.com/psd-freebies/app-design/
 
