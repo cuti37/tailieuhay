@@ -11,3 +11,5 @@
 => https://www.udemy.com/learn-by-doing-android-for-beginners/?dtcode=iFEQbRl3TC9E
 => https://www.codementor.io/learn-android-development
 => http://www.vogella.com/tutorials/android.html
+6 - Hướng dẫn sử dụng thư viện android để thiết kế
+=> http://blog.rhesoft.com/categories/#Android
