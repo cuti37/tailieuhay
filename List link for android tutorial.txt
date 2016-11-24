@@ -23,3 +23,5 @@
 =============Tổng hợp link blog và forum : https://github.com/vbauer/android-blogs
 1 - Hướng dẫn drag and swipe recycleViewer
 => https://medium.com/@ipaulpro/drag-and-swipe-with-recyclerview-b9456d2b1aaf#.cinhr7rb8
+2 - Thư viện vẽ biểu đồ Android:
+=> https://github.com/PhilJay/MPAndroidChart
