@@ -25,3 +25,7 @@
 => https://medium.com/@ipaulpro/drag-and-swipe-with-recyclerview-b9456d2b1aaf#.cinhr7rb8
 2 - Thư viện vẽ biểu đồ Android:
 => https://github.com/PhilJay/MPAndroidChart
+=> https://github.com/PhilJay/MPAndroidChart-Realm
+
+3 - Thư viện tổng hợp android
+=> http://www.vogella.com/tutorials/android.html
