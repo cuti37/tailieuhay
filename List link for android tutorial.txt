@@ -29,3 +29,8 @@
 
 3 - Thư viện tổng hợp android
 => http://www.vogella.com/tutorials/android.html
+
+4 - Set multiple alarms
+=> http://stackoverflow.com/questions/12785702/android-set-multiple-alarms
+5 - Configuring an Android Spinner control to use an array of java objects 
+=> http://www.katr.com/article_android_spinner01.php
